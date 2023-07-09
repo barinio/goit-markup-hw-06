@@ -798,7 +798,8 @@ label {
 		flex-direction: row;
 		flex-wrap: wrap;
 		align-items: flex-start;
-		padding-left: 108px;
+		width: 552px;
+		gap: 72px 24px;
 	}
 	.nav-list {
 		margin-right: 121px;
