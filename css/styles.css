@@ -1019,7 +1019,7 @@ label {
 	flex-wrap: wrap;
 	margin-bottom: 72px;
 	gap: 24px;
-	width: 270px;
+	width: 271px;
 }
 .filters-btn {
 	font-family: Roboto, sans-serif;
@@ -1100,7 +1100,7 @@ label {
 }
 .text-overlay {
 	position: absolute;
-	top: 1;
+	top: 0;
 	background-color: var(--interactive);
 	color: var(--cloud);
 	padding: 40px 32px;
@@ -1115,7 +1115,6 @@ label {
 }
 .card-projects:hover .text-overlay {
 	transform: translateY(0);
-	top: 0;
 }
 .link-text {
 	color: var(--dominant);
